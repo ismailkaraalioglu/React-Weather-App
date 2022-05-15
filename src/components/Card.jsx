@@ -2,7 +2,7 @@ import React from "react";
 import { useWeather } from "../context/WeatherContext";
 
 function Card() {
-  const { weatherData, days, city, getDay } = useWeather();
+  const { weatherData, days, city } = useWeather();
 
   return (
     <div className="content">
