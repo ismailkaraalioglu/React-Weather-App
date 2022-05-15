@@ -1,5 +1,7 @@
 # Patika.dev React modülü "Weather App" çalışması.
 
+[https://ismailkaraalioglu-weatherapp.netlify.app/](https://ismailkaraalioglu-weatherapp.netlify.app/)
+
 ---
 
 * `Axios API` ile hava durumu bilgileri [www.openweathermap.org](www.openweathermap.org) adresinden çekildi. 
