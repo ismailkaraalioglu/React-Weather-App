@@ -1,4 +1,4 @@
-# Patika.dev React modülü "Weather App" çalışması.
+# Patika.dev React modülü "Weather App" çalışması
 
 [https://ismailkaraalioglu-weatherapp.netlify.app/](https://ismailkaraalioglu-weatherapp.netlify.app/)
 
